@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maxLevel: 1
+  baseEXP: 1
+  EXPPercent: 1
+
+two:
+  maxLevel: 1
+  baseEXP: 1
+  EXPPercent: 1
